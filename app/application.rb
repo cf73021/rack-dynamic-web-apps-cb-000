@@ -15,7 +15,4 @@ class Application
       puts "You Lose"
     end
   end
-
-
-
 end
